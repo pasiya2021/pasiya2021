@@ -4,6 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 I am a full stack developer with an ambition to continue learning.
 
 *   🌍  I'm based in Colombo
@@ -13,6 +16,8 @@ I am a full stack developer with an ambition to continue learning.
 *   🧠  I'm learning Node.JS
 *   🤝  I'm open to collaborating on Projects
 *   ⚡  I'm Bat Man, Tell Everyone <b>
+
+
 
  <h1> Skills </h1>
 <p align="left">
