@@ -86,4 +86,26 @@ I am a full stack developer with an ambition to continue learning.
   </a>
 </p>
 
+---
+
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=pasiya2021&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pasiya2021&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasiya2021&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Most Used Languages"/>
+  
+  </td>
+</tr>
+</table>
+
+---
+
 
