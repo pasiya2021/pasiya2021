@@ -11,7 +11,7 @@ Full Stack Developer
 I am a full stack developer with an ambition to continue learning.
 
 *   🌍  I'm based in Colombo
-*   🖥️  See my portfolio at [MyPortfolio](http://pasindu.me)
+*   🖥️  See my portfolio at [MyPortfolio](http://pasindum.me)
 *   ✉️  You can contact me at [pasiya10975@gmail.com](mailto:pasiya10975@gmail.com)
 *   🚀  I'm currently working on [MyApp](http://lakpawra.lk)
 *   🧠  I'm learning Node.JS
