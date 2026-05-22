@@ -27,7 +27,8 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 - 📚 Currently improving my backend architecture & DevOps knowledge
 
 📫 Reach me at: pasindumbandara7@gmail.com 
-🌐 Portfolio: [**Add your portfolio link here**](https://3d-portfolio-ktx2q8kjf-pasiya2021s-projects.vercel.app/)
+
+🌐 Portfolio: [**portfolio**](https://3d-portfolio-ktx2q8kjf-pasiya2021s-projects.vercel.app/)
 
 ---
 
